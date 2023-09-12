@@ -23,6 +23,6 @@ Follow these steps to set up a development environment with Python and the requi
 
    ```bash
    pip install opencv-python
----
+-
    ```bash
    pip install pandas numpy
