@@ -24,3 +24,24 @@ Follow these steps to set up a development environment with Python and the requi
    ```bash
    pip install opencv-python
    pip install pandas numpy
+
+## Step 3: Install Tensorflow, Tensorflow lite and Tensorflow lite Runtime
+
+1. Install the needed dependencies using **pip**:
+
+   ```bash
+   pip install tensorflow
+   pip install tflite
+   pip install tflite-runtime
+
+## Running the virtual environment
+> go to cd C:\path\to\your\project\directory\myenv and open it in terminal
+1. to activate the virtual environment 
+   
+   ```bash
+   .\Scripts\Activate.ps1
+
+2. to deactivate
+
+   ```bash
+   deactivate
