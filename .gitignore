@@ -1,5 +1,4 @@
-# Ignore the "lib" directory
-lib/
 
-# Ignore the "datasets" directory
+lib/
 datasets/
+my_model.h5
